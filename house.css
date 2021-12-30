@@ -1,0 +1,52 @@
+.background{
+    height:600px;
+    width:800px;
+    background-color: blue;
+}
+.sun{
+    height:60px;
+    width:60px;
+    background-color:yellow;
+    border-radius:90%;
+    margin-left:25px;
+    text-align:center;
+}
+.chimney{
+    height:50px;
+    width:60px;
+    background-color:brown;
+    border:solid;
+    margin-top:60px;
+
+}
+.house{
+    height:300px;
+    width:300px;
+    border:solid;
+    background-color:green;
+
+}
+.window1{
+    height:80px;
+    width:80px;
+    border:solid;
+    margin-top:20px;
+    background-color:purple;
+
+}
+.window2{
+    height:80px;
+    width:80px;
+    border:solid;
+    margin-left: 150px;
+    margin-top:-85px;
+    background-color:purple;
+}
+.door{
+    height: 180px;
+    width:80px;
+    background-color:yellowgreen;
+    margin-left:80px;
+    margin-top:15px;
+
+}
